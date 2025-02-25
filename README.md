@@ -1,5 +1,7 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+#TESTING DESIGNS FOR THESIS GAME. 
 
-DO NOT LEAVE IT LIKE THIS!!!
+THIS IS A TEST
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+THIS IS JUST A TEST
+
+PLEASE DO NOT BE ALARMED
